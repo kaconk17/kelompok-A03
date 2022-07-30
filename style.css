@@ -75,6 +75,7 @@ header {
   float: right;
   background-color: rgba(74, 86, 98, 0.3);
   transition: all 0.5s;
+  border-radius: 4px;
 }
 .header-right:hover {
   background-color: #00acd7;
